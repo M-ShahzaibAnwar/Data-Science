@@ -34,7 +34,7 @@ This project demonstrates strong skills in **data preprocessing**, **feature eng
 
 ---
 
-## 🛠️ **Tools & Technologies**
+##  **Tools & Technologies**
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn  
 - **Visualization:** Matplotlib, Seaborn  
